@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">HolaMundo</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="titulo_primer_activity">First Activity</string>
+    <string name="texto_boton_siguiente">Click Me!</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="titulo_segundo_activity">Second Activity</string>
+    <string name="texto_segundo_activity">This is your name:</string>
+    <string name="hint_name">Name</string>
+    <string name="nombre_parametro_name">parametroName</string>
+</resources>
